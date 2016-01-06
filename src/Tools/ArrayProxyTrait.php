@@ -1,6 +1,6 @@
 <?php
 
-namespace Spark\Tools;
+namespace Equip\Tools;
 
 trait ArrayProxyTrait
 {

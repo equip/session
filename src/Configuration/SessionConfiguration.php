@@ -1,11 +1,11 @@
 <?php
 
-namespace Spark\Configuration;
+namespace Equip\Configuration;
 
 use Auryn\Injector;
-use Spark\Configuration\ConfigurationInterface;
-use Spark\NativeSession;
-use Spark\SessionInterface;
+use Equip\Configuration\ConfigurationInterface;
+use Equip\NativeSession;
+use Equip\SessionInterface;
 
 class SessionConfiguration implements ConfigurationInterface
 {

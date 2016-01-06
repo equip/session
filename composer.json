@@ -1,30 +1,29 @@
 {
-    "name": "sparkphp/session",
+    "name": "equip/session",
     "description": "Session management helpers",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Spark Contributors",
-            "homepage": "https://github.com/sparkphp"
+            "name": "Equip Contributors",
+            "homepage": "https://github.com/equip"
         }
     ],
     "require": {
         "php": ">=5.5",
-        "sparkphp/spark": "~0.9"
+        "equip/framework": "^1.0"
     },
     "require-dev": {
-        "satooshi/php-coveralls": "^0.6",
         "phpunit/phpunit": "^4.8|^5.0"
     },
     "autoload": {
         "psr-4": {
-            "Spark\\": "src/"
+            "Equip\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "SparkTests\\": "tests/"
+            "EquipTests\\": "tests/"
         }
     }
 }

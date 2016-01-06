@@ -1,8 +1,8 @@
 <?php
 
-namespace Spark;
+namespace Equip;
 
-use Spark\Tools\ArrayProxyTrait;
+use Equip\Tools\ArrayProxyTrait;
 
 class NativeSession implements SessionInterface
 {

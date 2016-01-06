@@ -1,6 +1,6 @@
 <?php
 
-namespace Spark;
+namespace Equip;
 
 interface SessionInterface extends
     \ArrayAccess

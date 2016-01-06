@@ -1,9 +1,9 @@
 <?php
 
-namespace SparkTests;
+namespace EquipTests;
 
 use PHPUnit_Framework_TestCase as TestCase;
-use Spark\NativeSession;
+use Equip\NativeSession;
 
 class NativeSessionTest extends TestCase
 {

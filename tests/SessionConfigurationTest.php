@@ -1,12 +1,12 @@
 <?php
 
-namespace SparkTests;
+namespace EquipTests;
 
 use Auryn\Injector;
 use PHPUnit_Framework_TestCase as TestCase;
-use Spark\Configuration\SessionConfiguration;
-use Spark\NativeSession;
-use Spark\SessionInterface;
+use Equip\Configuration\SessionConfiguration;
+use Equip\NativeSession;
+use Equip\SessionInterface;
 
 class SessionConfigurationTest extends TestCase
 {
