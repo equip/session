@@ -7,6 +7,6 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 _..._
 
-## 2.0.0 - ?
+## 2.0.0 - 2017-03-12
 
 - Update for compatibility with Equip v2.x
